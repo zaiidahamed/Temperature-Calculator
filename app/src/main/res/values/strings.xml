@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Temperature Calculator</string>
+    <string name="editTemp">Enter Temperature</string>
+    <string name="radioC">Celcious</string>
+    <string name="radioF">Fahrenhite</string>
+    <string name="btnCalc">Calculate</string>
+</resources>
